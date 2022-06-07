@@ -1,5 +1,5 @@
-# FE Internship Summer 2022<br>
-### Dương Phan Cẩm Tú<br>
-26/07/2000<br>
-***SupremeTech***<br>
+# FE Internship Summer 2022
+### Dương Phan Cẩm Tú
+26/07/2000
+***SupremeTech***
 ***FrontEnd***
